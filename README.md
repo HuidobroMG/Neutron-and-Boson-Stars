@@ -5,6 +5,8 @@ Units.py
 
 BNStars.py
 
+BNStars_Parallel.py
+
 Tidal_BNStars.py
 
 SlowRot_BNStars.py
