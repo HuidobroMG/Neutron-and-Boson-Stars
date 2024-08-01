@@ -11,8 +11,4 @@ Tidal_BNStars.py
 
 SlowRot_BNStars.py
 
-Stars.py can solve the TOV system of equations for a given EOS data file. Furthermore, if the model has no crust you may add it at some value of the pressure, by default it will use the Barcelona-Catania-Paris-Madrid (BCPM) EOS.
-
 SlowRotStars.py can solve an extended version of the system of differential equations from the Hartle-Thorne approximation. It calculates for a given EOS data file the first electric and magnetic multipolar deformations caused by tidal forces and for small rotations of the NS.
-
-Generalized_Hybrid_EoS.py constructs the Generalized and Hybrid Skyrme model EOS defined in [https://arxiv.org/pdf/2006.07983.pdf] for different values of the transitions at high (core) and low (crust) densities.
