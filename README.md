@@ -11,4 +11,4 @@ Tidal_BNStars.py
 
 SlowRot_BNStars.py
 
-SlowRot_NStars.py can solve an extended version of the system of differential equations from the Hartle-Thorne approximation. It calculates for a given EOS data file the first electric and magnetic multipolar deformations caused by tidal forces and for small rotations of the NS.
+Tidal_SlowRot_NStars.py can solve an extended version of the system of differential equations from the Hartle-Thorne approximation. It calculates for a given EOS data file the first electric and magnetic multipolar deformations caused by tidal forces and for small rotations of the NS.
